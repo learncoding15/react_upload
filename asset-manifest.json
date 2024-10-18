@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/learncoding15/react_upload/static/css/main.9945606c.css",
+    "main.js": "/learncoding15/react_upload/static/js/main.75fa5fd8.js",
+    "static/media/Online-Exam-Bkg.jpg": "/learncoding15/react_upload/static/media/Online-Exam-Bkg.ca746ec90b2fc9a37700.jpg",
+    "static/media/Exam-Login.png": "/learncoding15/react_upload/static/media/Exam-Login.534d7036edd7f6da30b9.png",
+    "static/media/bootstrap-icons.woff?": "/learncoding15/react_upload/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/learncoding15/react_upload/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/home_bgg.jpg": "/learncoding15/react_upload/static/media/home_bgg.0295019a2641962c8aaf.jpg",
+    "static/media/mobile_home_bgg.jpg": "/learncoding15/react_upload/static/media/mobile_home_bgg.0295019a2641962c8aaf.jpg",
+    "static/media/MBTB-Marathi.png": "/learncoding15/react_upload/static/media/MBTB-Marathi.e6f5dd1794f4e99a155c.png",
+    "static/media/MBTB-Logo.jpg": "/learncoding15/react_upload/static/media/MBTB-Logo.24a60843e545ad973080.jpg",
+    "static/media/404Error.webp": "/learncoding15/react_upload/static/media/404Error.85f22b8d59c19f0f7981.webp",
+    "static/media/Raj-Logo.png": "/learncoding15/react_upload/static/media/Raj-Logo.125f35bf77d6760ad42b.png",
+    "index.html": "/learncoding15/react_upload/index.html",
+    "main.9945606c.css.map": "/learncoding15/react_upload/static/css/main.9945606c.css.map",
+    "main.75fa5fd8.js.map": "/learncoding15/react_upload/static/js/main.75fa5fd8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9945606c.css",
+    "static/js/main.75fa5fd8.js"
+  ]
+}
